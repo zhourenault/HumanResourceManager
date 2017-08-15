@@ -3,7 +3,7 @@ package com.renault.domain;
 import java.io.Serializable;
 
 /**
- * 员工实体类
+ * 管理员实体类
  * @author ccidit
  *
  */
