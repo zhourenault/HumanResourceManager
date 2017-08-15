@@ -2,7 +2,11 @@ package com.renault.domain;
 
 import java.io.Serializable;
 
-
+/**
+ * 员工实体类
+ * @author ccidit
+ *
+ */
 public class Admin implements Serializable {
 
 	    private static final long serialVersionUID = 1L;
